@@ -18,19 +18,18 @@ class LoginPage extends StatelessWidget {
               child: Column(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
-                  // Avatar icon
-                  CircleAvatar(
-                    radius: 60,
-                    backgroundColor: Colors.white.withOpacity(0.1),
-                    child: Icon(
-                      Icons.person,
-                      size: 80,
-                      color: Colors.white,
+                  // Avatar dengan gambar
+                  ClipOval(
+                    child: Image.asset(
+                      'assets/gambar.jpg', // Ganti dengan path gambar avatar
+                      height: 120,
+                      width: 120,
+                      fit: BoxFit.cover,
                     ),
                   ),
                   SizedBox(height: 30),
 
-                  // Title text
+                  // Teks judul
                   Text(
                     'Selamat Datang!',
                     style: TextStyle(
@@ -49,7 +48,7 @@ class LoginPage extends StatelessWidget {
                   ),
                   SizedBox(height: 40),
 
-                  // Email input
+                  // Input Email
                   TextField(
                     style: TextStyle(color: Colors.white),
                     decoration: InputDecoration(
@@ -70,7 +69,7 @@ class LoginPage extends StatelessWidget {
                   ),
                   SizedBox(height: 20),
 
-                  // Password input
+                  // Input Password
                   TextField(
                     obscureText: true,
                     style: TextStyle(color: Colors.white),
@@ -92,7 +91,7 @@ class LoginPage extends StatelessWidget {
                   ),
                   SizedBox(height: 30),
 
-                  // Login Button
+                  // Tombol Login
                   ElevatedButton(
                     onPressed: () {
                       Navigator.pushNamed(context, '/profile');
@@ -117,7 +116,7 @@ class LoginPage extends StatelessWidget {
                   ),
                   SizedBox(height: 20),
 
-                  // Register text button
+                  // Tombol teks untuk register
                   TextButton(
                     onPressed: () {
                       Navigator.pushNamed(context, '/register');
