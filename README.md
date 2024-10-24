@@ -3,10 +3,8 @@ KELAS  : 2A TRPL
 NIM    : 362358302068
                                                    UTS 
                                   PERKULIAHAN PEMROGRAMAN PERANGKAT BERGERAK
+![download](https://github.com/user-attachments/assets/1bd921f7-cc6f-4b10-ac53-e123caa552f4)
                                     
-            ![download](https://github.com/user-attachments/assets/a4d08660-a3a2-4c16-86ba-5b0af8aebc24)
-
-
 1. Deskripsi Aplikasi
 Aplikasi ini merupakan aplikasi sederhana yang terdiri dari tiga halaman utama:
 
