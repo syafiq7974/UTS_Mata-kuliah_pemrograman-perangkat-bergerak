@@ -4,7 +4,8 @@ NIM    : 362358302068
                                                    UTS 
                                   PERKULIAHAN PEMROGRAMAN PERANGKAT BERGERAK
                                     
-              ![image](https://github.com/user-attachments/assets/2dad157f-8797-4fcc-a971-36160a795245)
+            ![download](https://github.com/user-attachments/assets/a4d08660-a3a2-4c16-86ba-5b0af8aebc24)
+
 
 1. Deskripsi Aplikasi
 Aplikasi ini merupakan aplikasi sederhana yang terdiri dari tiga halaman utama:
