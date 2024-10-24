@@ -18,7 +18,8 @@ class ProfilePage extends StatelessWidget {
             children: [
               CircleAvatar(
                 radius: 50,
-                backgroundImage: AssetImage('assets/profile_icon.png'),
+                // Replace the below line with the path to your image
+                backgroundImage: AssetImage('assets/gambar.jpg'),
               ),
               SizedBox(height: 30),
               Text(
@@ -41,12 +42,12 @@ class ProfilePage extends StatelessWidget {
               ),
               SizedBox(height: 10),
               Text(
-                'Alamat: Jakarta, Indonesia',
+                'Alamat: Banyuwangi, Indonesia',
                 style: TextStyle(color: Colors.white, fontSize: 18),
               ),
               SizedBox(height: 10),
               Text(
-                'No Telp: 08123456789',
+                'No Telp: 083891155997',
                 style: TextStyle(color: Colors.white, fontSize: 18),
               ),
               SizedBox(height: 30),
