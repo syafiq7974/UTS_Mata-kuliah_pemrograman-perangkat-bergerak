@@ -28,6 +28,9 @@ Pengguna dapat memasukkan nama lengkap, email, password, dan konfirmasi password
 ![image](https://github.com/user-attachments/assets/ff1297fa-5b3a-4724-a7eb-bfd40fc82e3a)
 Tombol Daftar akan mengarahkan pengguna kembali ke halaman login setelah berhasil mendaftar.
 ![image](https://github.com/user-attachments/assets/7da27dc0-9dc7-43cd-9333-4f6755c88725)
+setelah itu akan muncul pendaftaran berhasil dilakukan
+![image](https://github.com/user-attachments/assets/cedb33e9-bcd6-4068-8171-be8f8c9bdfc5)
+lalu kembali ke menu login bagi yang sudah buat akun
 
 -Profile Page
 
